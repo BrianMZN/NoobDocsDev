@@ -17,6 +17,15 @@ Kijk hem hier onder.
 
 [!embed](https://youtu.be/b4hb8EESbKo)
 
+[!embed](https://status.mznb.nl)
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://status.mznb.nl">
+</iframe>
+
 
 Nog vragen of hulp nodig?
 - 
