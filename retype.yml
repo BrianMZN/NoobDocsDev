@@ -3,16 +3,12 @@ output: .retype
 url: # Add your website address here
 branding:
   title: NoobDocs
-  label: door Brian
+  label: DevBuild
 links:
-  - text: Discord
-    link: https://metzondernoob.nl/discord
-  - text: Shop
-    link: https://shop.noobnetwork.nl
-  - text: NoobSite
-    link: https://www.metzondernoob.nl
+  - text: Non Dev Build
+    link: https://sky.mznb.nl
 footer:
   links:
     - text: Gemaakt door Brian
       link: https://qiick.xyz
-  copyright: "&copy; NoobNetwork {{ year }}"
+  copyright: "Deze pagine heeft misschien informatie die niet klopt"
