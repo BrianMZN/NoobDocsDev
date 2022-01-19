@@ -21,8 +21,8 @@ Kijk hem hier onder.
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="300"
-    height="200"
+    width="3000"
+    height="2000"
     src="https://status.mznb.nl">
 </iframe>
 
